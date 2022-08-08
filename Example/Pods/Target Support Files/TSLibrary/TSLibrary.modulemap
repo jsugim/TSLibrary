@@ -1,0 +1,6 @@
+framework module TSLibrary {
+  umbrella header "TSLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

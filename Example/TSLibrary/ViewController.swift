@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import TSLibrary
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        TSLibrary().log(with: "Hello")
     }
 
     override func didReceiveMemoryWarning() {

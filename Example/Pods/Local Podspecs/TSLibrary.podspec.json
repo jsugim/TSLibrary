@@ -1,0 +1,22 @@
+{
+  "name": "TSLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of TSLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jsugim/TSLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jsugim": "jsugim@39degreesc.com"
+  },
+  "source": {
+    "git": "https://github.com/jsugim/TSLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TSLibrary/Classes/**/*"
+}

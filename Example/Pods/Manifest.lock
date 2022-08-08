@@ -1,0 +1,16 @@
+PODS:
+  - TSLibrary (0.1.0)
+
+DEPENDENCIES:
+  - TSLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  TSLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TSLibrary: 33468b8fc4cad6b44200eb8d54fc856a79c8bcf3
+
+PODFILE CHECKSUM: 350ba3e10ac5cffd60d6006facb29f49dec72e3a
+
+COCOAPODS: 1.11.3

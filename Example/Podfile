@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'TSLibrary_Example' do
+  pod 'TSLibrary', :path => '../'
+
+  target 'TSLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
